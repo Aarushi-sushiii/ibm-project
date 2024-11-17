@@ -1,5 +1,7 @@
 # ibm-project
-ibm project (please grade well i beg) 
+ibm project 
+
+here i have done some data processing, manipulation and also used linear regression using python libraries. 
 
 
 to the person grading my assignment, i really really need this 🥲🥲🙏❤️🐈(┬┬﹏┬┬)
